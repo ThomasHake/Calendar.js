@@ -388,7 +388,7 @@
  * 
  * @returns     {Object}                                                The Calendar.js instance.
  */
-function calendarJs( elementOrId, options, searchOptions ) {
+export function calendarJs( elementOrId, options, searchOptions ) {
     var _this = this,
         _string = {
             empty: "",
