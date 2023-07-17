@@ -1,7 +1,7 @@
 <h1 align="center">
 Calendar.js - fork
 </h1>
-<h2 align="center">This fork changes a single line of code by adding an export statement. This allows working with the calendar in separate javascript files instead of only being able to work with it in the HTML.</h2>
+<h2 align="center">This fork changes a single line of code by adding an export statement. This allows working with the calendar in separate javascript files instead of only being able to work with it in the HTML file.</h2>
 <p align="center">One of the world's easiest, most powerful, and full responsive JavaScript Calendars!</p>
 <p align="center">v2.0.12</p>
 <br />
