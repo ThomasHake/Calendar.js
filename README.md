@@ -1,8 +1,7 @@
 <h1 align="center">
-Calendar.js
-
-[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Calendar.js%2C%20a%20free%20JavaScript%20library&url=https://github.com/williamtroup/Calendar.js&hashtags=calendar,javascript,responsive,events)
+Calendar.js - fork
 </h1>
+<h2 align="center">This fork changes a single line of code by adding an export statement this allows working with the calendar in separate javascript files instead of only being able to work with it in the HTML.</h2>
 <p align="center">One of the world's easiest, most powerful, and full responsive JavaScript Calendars!</p>
 <p align="center">v2.0.12</p>
 <br />
